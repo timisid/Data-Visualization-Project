@@ -1,5 +1,5 @@
 # Data Visualization Project: 
->in this repository you'll find insight of datasets that has been analyze and visualized by user. 
+>in this repository you'll find insight of datasets that has been analyze, visualized and some machine learning added. 
 >real datasets source : www.kaggle.com
 
 ## 1.  Starbucks Location Worlwide
